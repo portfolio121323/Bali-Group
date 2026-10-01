@@ -1,0 +1,6 @@
+{
+  "name": "Bali Group Silos - Corporate Portal",
+  "description": "Global engineering partner for turnkey grain storage, handling, and milling infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
